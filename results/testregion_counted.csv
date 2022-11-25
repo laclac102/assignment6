@@ -1,0 +1,15 @@
+,frameshift_variant,inframe_deletion,intron_variant,missense_variant,"missense_variant,SO:0002152|genic_downstream_transcript_variant",nonsense,splice_acceptor_variant,splice_donor_variant,synonymous_variant,Benign,Benign/Likely_benign,Conflicting_interpretations_of_pathogenicity,Likely_benign,Likely_pathogenic,Pathogenic,Pathogenic/Likely_pathogenic,Uncertain_significance,"missense_variant,SO:0001627|intron_variant","synonymous_variant,SO:0001627|intron_variant","3_prime_UTR_variant,SO:0001627|intron_variant","5_prime_UTR_variant,SO:0001627|intron_variant","frameshift_variant,SO:0001627|intron_variant","nonsense,SO:0001627|intron_variant",3_prime_UTR_variant,inframe_insertion,Pathogenic|_risk_factor,risk_factor,"missense_variant,SO:0001619|non-coding_transcript_variant","non-coding_transcript_variant,SO:0001819|synonymous_variant","non-coding_transcript_variant,SO:0001821|inframe_insertion","non-coding_transcript_variant,SO:0001822|inframe_deletion",not_provided,5_prime_UTR_variant,inframe_indel,"initiatior_codon_variant,SO:0001583|missense_variant","initiatior_codon_variant,SO:0001589|frameshift_variant","missense_variant,SO:0002073|no_sequence_alteration",no_sequence_alteration,"nonsense,SO:0001821|inframe_insertion","splice_acceptor_variant,SO:0001575|splice_donor_variant","stop_lost,SO:0001822|inframe_deletion"
+ATP8A2,5.0,1.0,6.0,24.0,2.0,5.0,3.0,6.0,9.0,5.0,4.0,4.0,6.0,14.0,6.0,2.0,20.0,,,,,,,,,,,,,,,,,,,,,,,,
+RNF6,,,1.0,1.0,,,,,1.0,3.0,,,3.0,,3.0,,,5.0,1.0,,,,,,,,,,,,,,,,,,,,,,
+WASF3,,,,3.0,,,,,3.0,3.0,,,3.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RPL21,,,,1.0,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+POLR1D,,,,1.0,,,,,3.0,10.0,,1.0,1.0,2.0,6.0,,2.0,5.0,2.0,2.0,4.0,3.0,2.0,,,,,,,,,,,,,,,,,,
+PDX1,4.0,,,29.0,,,,,16.0,,5.0,9.0,9.0,5.0,3.0,1.0,16.0,,,,,,,1.0,1.0,1.0,2.0,,,,,,,,,,,,,,
+FLT3,,,10.0,,,,,,,15.0,,,31.0,26.0,12.0,1.0,,,,,,,,,,,,59.0,23.0,2.0,3.0,12.0,,,,,,,,,
+POMP,4.0,,,1.0,,,,,,,,,,1.0,3.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,
+ALOX5AP,,,,,,,,,2.0,1.0,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+B3GLCT,4.0,,22.0,33.0,,1.0,1.0,2.0,25.0,13.0,6.0,12.0,14.0,2.0,6.0,1.0,41.0,,,,,,,8.0,,,,,,,,2.0,1.0,,,,,,,,
+RXFP2,,,1.0,2.0,,,,,,1.0,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,
+BRCA2,2418.0,129.0,656.0,5747.0,,951.0,116.0,118.0,1763.0,234.0,69.0,922.0,2020.0,141.0,3328.0,154.0,5137.0,,,,,,,40.0,21.0,,,,,,,37.0,51.0,12.0,6.0,3.0,2.0,4.0,3.0,1.0,1.0
+KL,,,3.0,52.0,,,1.0,,31.0,19.0,5.0,12.0,4.0,1.0,,,53.0,,,,,,,7.0,,,,,,,,,,,,,,,,,
+STARD13,,,,,,,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,

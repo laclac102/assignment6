@@ -1,0 +1,9 @@
+Description for the result files
+1. Objective 1: summary statistics of the target file coverage
+    /objective1
+2. Objective 2: summary statistics of clinvar in region: chr13:26000000-36000000
+    /results/assignment6_db_counted.csv
+3. Objective 3: summary statistics of the testregion:
+    /results/testregion_counted.csv
+
+Instrcution for using the pipeline: README.md
