@@ -7,3 +7,6 @@ Description for the result files
     /results/testregion_counted.csv
 
 Instrcution for using the pipeline: README.md
+
+Testing plan for whole exome sequencing (WES) sample contamination detection.
+    /cross-sample_contaimination.md
